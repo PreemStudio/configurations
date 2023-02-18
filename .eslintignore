@@ -1,0 +1,6 @@
+.coverage
+.pnp.js
+dist/**
+distribution/**
+docs/**
+packages/**/distribution
